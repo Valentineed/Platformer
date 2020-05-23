@@ -1,3 +1,5 @@
+Participation : Quentin Sanchez, Felix Pognard, Mattis Faucheux and me(Valentin Dol)
+
 Bug non résolu :
 
 - Sauvegarder le jeu alors que le player est sur une plateforme non horizontal fait crash le load de la sauvegarde.
