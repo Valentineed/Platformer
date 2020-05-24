@@ -1,4 +1,4 @@
-Participation : Quentin Sanchez, Felix Pognard, Mattis Faucheux and me(Valentin Dol)
+Participation : Felix Pognard, Mattis Faucheux and me(Valentin Dol)
 
 Bug non résolu :
 
